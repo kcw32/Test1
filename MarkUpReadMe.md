@@ -12,4 +12,7 @@
 
 **굵게굵게**
 
-[다음](http://www.daum.net "다음")
+[다음]:http://www.daum.net "다음"
+[네이버]:http://www.naver.com "네이버"
+
+[네이버][네이버] [다음][다음]
